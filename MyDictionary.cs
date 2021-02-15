@@ -31,8 +31,6 @@ namespace Dictionary
             key[key.Length-1]= tK;
             value[value.Length-1]= tV;
 
-
-
         }
         public void Write()
         {
